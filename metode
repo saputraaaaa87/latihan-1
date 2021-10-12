@@ -1,0 +1,26 @@
+1. Requirement
+Pada tahap ini pengembang harus mengetahui seluruh informasi mengenai kebutuhan sofatware seperti kegunaan software yang diinginkan oleh pengguna dan batasan software.
+
+Informasi tersebut biasanya diperoleh dari wawancara, survey, ataupun diskusi. Setelah itu informs dianalisis sehingga mendapatkan data-data yang lengkap mengenai kebutuhan pengguna akan software yang akan dikembangkan.
+
+2. Design
+Tahap selanjutnya yaitu Desain. Desain dilakukan sebelum proses coding dimulai. Ini bertujuan untuk memberikan gambaran lengkap tentang apa yang harus dikerjakan dan bagaimana tampilan dari sebuah sistem yang diinginkan.
+
+Sehingga membantu menspesifikan kebutuhan hardware dan sistem, juga mendefinisikan arsitektur sistem yang akan dibuat secara keseluruhan.
+
+3. Implementation
+Proses penulisan code ada di tahap ini. Pembuatan software akan dipecah menjadi modul-modul kecil yang nantinya akan digabungkan dalam tahap selanjutnya.
+
+Dalam tahap ini juga akan dilakukan pemeriksaan lebih dalam terhadap modul yang sudah dibuat, apakah sudah memenuhi fungsi yang diinginkan atau belum.
+
+4. Integration & Testing
+Pada tahap keempat ini akan dilakukan penggabungan modul-modul yang sudah dibuat sebelumnya.
+
+Setelah itu akan dilakukan pengujian yang bertujuan untuk mengetahui apakah software sudah sesuai desain yang diinginkan dan apakah masih ada kesalahan atau tidak.
+
+5. Operation & Maintenance
+Operation & Maintenance adalah tahapan terakhir dari metode pengembangan waterfall. Di sini software yang sudah jadi akan dijalankan atau dioperasikan oleh penggunanya. Disamping itu dilakukan pula pemeliharaan yang termasuk :
+
+perbaikan kesalahan
+perbaikan implementasi unit sistem
+peningkatan jasa sistem sesuai kebutuhan baru
