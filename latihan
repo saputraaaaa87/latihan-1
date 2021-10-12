@@ -11,3 +11,10 @@ Serta perawatan sistem
 
 Contoh Kasus
 Pada contoh kasus pembelian diatas. Toko bangunan barokah sumber jaya. (software requirement specification) and design document. Analisis kebutuhan fungsional) mengggunakan model waterfall
+
+
+Prototype adalah model pertama dari produk yang digunakan untuk men-testing konsep atau gambaran dari ide kita
+B. Kekurangan Metode Prototype
+Proses perencangan dan analisi terlalu singkat.
+Biasanya Kurang fleksibel dalam menghadapi perubahan.
+Pengembang kadang-kadang membuat kompromi implementasi dengan menggunakan sistem operasi yang tidak relevan dan algoritma yang tidak efisien.
