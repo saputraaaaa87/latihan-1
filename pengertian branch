@@ -1,0 +1,7 @@
+Penjelasan
+ git branch itu digunakan untuk melakukan percabangan pada repository utama git kita. 
+ Karena saat pertama kali kita membuat repository pada git, nama branch-nya itu adalah master. 
+ Nah branch master itulah branch utama dari repository kita. Kita bisa saja mendefinisikan/membedakan setiap branch pada repository git kita. 
+ Misalnya kita ambil contoh dari repository kernel Linux. branch master digunakan untuk sumber kode dari kernel yang sudah
+ siap di publikasikan (release), sedangkan dilain pihak, kernel Linux mempunyai branch development 
+ yang dimana branch ini digunakan untuk kepeluan pengembangan kernel Linux sampai ke tahap stabil (siap untuk dipublikasi) yaitu pada branch master
